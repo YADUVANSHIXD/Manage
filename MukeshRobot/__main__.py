@@ -218,9 +218,9 @@ def start(update: Update, context: CallbackContext):
             lol.edit_text("❤")
             time.sleep(0.4)
             lol.edit_text("🌹")
-            time.sleep(0.3)
+            time.sleep(0.4)
             lol.edit_text("⚡")
-            time.sleep(0.3)
+            time.sleep(0.4)
             lol.edit_text("ꜱᴛᴀʀᴛɪɴɢ... ")
             time.sleep(0.4)
             lol.delete()
@@ -1048,7 +1048,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ➕",
-                            url="https://t.me/groupcontrollertgbot?startgroup=true"
+                            url="https://t.me/Group_helpXrobot?startgroup=true"
                             )
                        ]
                 ]
